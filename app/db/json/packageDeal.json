@@ -1,0 +1,39 @@
+[
+
+	{
+		"name":"package1",
+		"price":200,
+		"description":"Something something something something",
+		"image":"link to be declared",
+		"Location":"Manhattan"
+
+	},
+	{
+		"name":"package2",
+		"price":200,
+		"description":"Something something something something",
+		"image":"link to be declared",
+		"Location":"Brooklyn"
+	},
+	{
+		"name":"package3",
+		"price":200,
+		"description":"Something something something something",
+		"image":"link to be declared",
+		"Location":"Queens"
+		},
+	{
+		"name":"package4",
+		"price":200,
+		"description":"Something something something something",
+		"image":"link to be declared",
+		"Location":"Bronx"
+		},
+		{
+			"name":"package5",
+		"price":200,
+		"description":"Something something something something",
+		"image":"link to be declared",
+		"Location":"Staten Island"
+		}
+	]
